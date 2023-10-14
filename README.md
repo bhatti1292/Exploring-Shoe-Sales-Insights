@@ -12,7 +12,7 @@ The dataset provides comprehensive information about ShoeSales, including statis
 ## Data Exploration
 During the initial exploratory data analysis, we uncovered interesting trends and patterns related to Shoe Sales.
 
-## Data Format
+## Data Analysis
 Shoe Types: Running Shoes emerged as the most popular shoe type in the dataset, reflecting changing consumer preferences.
 
 Brand Dominance: Nike takes the lead as the most prevalent brand, capturing the highest share of sales. Adidas and other brands follow suit, revealing brand prefrences among consumers.
